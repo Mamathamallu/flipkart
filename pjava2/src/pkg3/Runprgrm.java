@@ -6,6 +6,7 @@ public class Runprgrm {
 		// TODO Auto-generated method stub
 
 		int t=69;
+		int b=30;
 	}
 
 }
